@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: calc(100vh - 80px); /* Ajuste para deixar espaço para o cabeçalho */
+    height: calc(100vh - 80px);
 }
 .relogio {
     display: flex;
